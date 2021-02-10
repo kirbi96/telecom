@@ -1,0 +1,14 @@
+.nav_link{
+    font-size: 22px;
+    color: black;
+    margin-left: 30px;
+    text-decoration: none;
+}
+
+.nav_link-active{
+    font-size: 22px;
+    color: #b13acf;
+    margin-left: 30px;
+    text-decoration: none;
+}
+
